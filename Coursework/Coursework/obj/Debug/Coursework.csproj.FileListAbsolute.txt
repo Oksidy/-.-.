@@ -1,0 +1,12 @@
+X:\Educational Institution\TDPA\Coursework\Coursework\bin\Debug\Coursework.exe.config
+X:\Educational Institution\TDPA\Coursework\Coursework\bin\Debug\Coursework.exe
+X:\Educational Institution\TDPA\Coursework\Coursework\bin\Debug\Coursework.pdb
+X:\Educational Institution\TDPA\Coursework\Coursework\obj\Debug\Coursework.csproj.AssemblyReference.cache
+X:\Educational Institution\TDPA\Coursework\Coursework\obj\Debug\Coursework.Form1.resources
+X:\Educational Institution\TDPA\Coursework\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+X:\Educational Institution\TDPA\Coursework\Coursework\obj\Debug\Coursework.csproj.GenerateResource.cache
+X:\Educational Institution\TDPA\Coursework\Coursework\obj\Debug\Coursework.csproj.CoreCompileInputs.cache
+X:\Educational Institution\TDPA\Coursework\Coursework\obj\Debug\Coursework.exe
+X:\Educational Institution\TDPA\Coursework\Coursework\obj\Debug\Coursework.pdb
+X:\Educational Institution\TDPA\Coursework\Coursework\obj\Debug\Coursework.Form2.resources
+X:\Educational Institution\TDPA\Coursework\Coursework\obj\Debug\Coursework.Form3.resources
